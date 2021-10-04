@@ -1,0 +1,5 @@
+Desc - Method - Path - Body - Query String
+
+Add a recipe - POST - Add/Recipe - Recipe Object - x
+Get all recipes - GET - recipes - Recipe Objects
+Search with ingredients - GET - search/{searchQuery} - Recipe Objects
